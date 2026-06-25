@@ -1,0 +1,1 @@
+This is AI rule based game where player compete with AI,The Difficulty is falling blocks who drop from random places for infinite time and also score boards are available where the first board display total loose of AI and other for player who do same thing.
